@@ -4,7 +4,7 @@ This Project Looks into #Parisa_Babaali, NIAC's New York Chapter lead, and her c
 
 Following Iranian Government's Massacre in Januray 2026, HRANA, an reknown independent human rights organisation has issued a detailed report called , Crimson Winter, The report is available here: (https://www.en-hrana.org/the-crimson-winter-a-50-day-record-of-irans-2025-2026-nationwide-protests/). According to HRANA, this report includes an Appendix of over 4000 people killed by Iranian government officals in that period.
 
-Parisa Babaali, is a senior AI engineer at IBM and a chapter leader of NIAC NY (these are publc info about her, according to Niac website https://niacouncil.org/staff/parisa-babaali/). She has made an Instagram video (https://www.instagram.com/pbabaali/) where she claims she has reviewed this Appendix, and "there are 400 to 500 duplicate names in this report", thereby making a claim of over 400 to 500 people who HRANA has listed don't exist and are duplicates.
+Parisa Babaali, is a senior AI engineer at IBM and a chapter leader of NIAC NY (copied from her profile info publically available on Niac website https://niacouncil.org/staff/parisa-babaali/). She has made an Instagram video (https://www.instagram.com/pbabaali/) where she claims she has reviewed HRANA report, and "there are 400 to 500 duplicates" in the list of names of Iranians alledgedly mudered by the Iranian gvernment in this report", thereby making a claim that over 400 to 500 people who HRANA has listed, don't exist and are simply duplicates.
 
 We have respectfully asked Ms Babaali to release her analysis via X (former twitter) and Instagram to which she has not reponded.
 
@@ -234,7 +234,7 @@ The first number if HRANA appendix ID of that name
 2385	Khaled Molaei	Unknown		
 
 2388	Khodadad Sarlak Chivai	Unknown	
-4050	Khodadad Sarlak Chivai	Isfahan	Isfahan	Unknown
+4050	Khodadad Sarlak Chivai	Isfahan	Isfahan	
 
 4161	Mahan Kargar	Isfahan	Isfahan	
 3932	Mahan Kargar	Khomeini Shahr	Isfahan	
@@ -254,11 +254,11 @@ The first number if HRANA appendix ID of that name
 616	  Mehdi Jafari	Unknown		
 3870	Mehdi Jafari	Karaj (Mehrshahr)	Alborz	January 9, 2026 (1404/10/19)
 
-115	  Mehdi Lavasani	Tehran	Tehran	Unknown
-2633	Mehdi Lavasani	Tehran	Tehran	
+115	  Mehdi Lavasani	Tehran		
+2633	Mehdi Lavasani	Tehran		
 
-1010	Mehdi Mostafaei Pour	Unknown	Unknown	January 8, 2026 (1404/10/18)
-3692	Mehdi Mostafaei Pour	Unknown	Unknown	Unknown
+1010	Mehdi Mostafaei Pour			January 8, 2026 (1404/10/18)
+3692	Mehdi Mostafaei Pour			
 
 3651	Mehdi Sanaei Samani	Unknown	
 1207	Mehdi Sanaei Samani	Saman	Chaharmahal and Bakhtiari	January 9, 2026 (1404/10/19)
@@ -308,8 +308,8 @@ The first number if HRANA appendix ID of that name
 4041	Omid Abbasi	Tehran	Tehran	Unknown
 1704	Omid Abbasi	Fardis	Alborz	January 8, 2026 (1404/10/18)
 
-471	  Parsa Abbaspour	Fardis	Alborz	Unknown
-4017	Parsa Abbaspour	Karaj	Alborz	Unknown
+471	  Parsa Abbaspour	Fardis	Alborz	
+4017	Parsa Abbaspour	Karaj	Alborz	
 
 2482	Reza Gholipour	Unknown		
 2481	Reza Gholipour	Unknown		January 8, 2026 (1404/10/18)
