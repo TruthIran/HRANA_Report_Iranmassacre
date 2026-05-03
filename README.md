@@ -12,7 +12,7 @@ This Repo, hence, verifies her claims, via an openly available approach and leav
 
 While we undestand that humanitarian organisations may have incomplete info at times or make mistakes in their reported data, we belive "Iranian Lives Matter" like any othet nation's and so, no one should make random claims and assumptions about reports of Irnian people killed and their evidnece, without being able to substanciate their claims.
 
-Our question is simple, are there 400 to 500 duplicate names in this report", or is Parisa Babaali falsifying in her claim?
+Our question is simple, are there 400 to 500 duplicate names in this report", or is Parisa Babaali, mistaking, falsifying or deliberately reducing the number of victims in her claim?
 
 Also, while HRANA historically makes great efforts to report based on evidence, mistakes or incomplete or duplicated info may happen in documanting crimes of Iranian government, specially and sadly in this magnitude. Hence the other goal of this work is to help HRANA corretc any such findings in their report.
 
