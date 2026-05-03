@@ -1,5 +1,6 @@
-# Parisa_Babaali
-This Project Looks into Parisa Babaali, NIAC's New York Chapter lead, and her claims about HRNA report of #IranMassacre 
+#HRANA_Report_IranMasscre
+
+This Project Looks into # Parisa_Babaali, NIAC's New York Chapter lead, and her claims about HRNA report of #IranMassacre 
 
 Following Iranian Government's Massacre in Januray 2026, HRANA, an reknown independent human rights organisation has issued a detailed report called , Crimson Winter, The report is available here: (https://www.en-hrana.org/the-crimson-winter-a-50-day-record-of-irans-2025-2026-nationwide-protests/). According to HRANA, this report includes an Appendix of over 4000 people killed by Iranian government officals in that period.
 
