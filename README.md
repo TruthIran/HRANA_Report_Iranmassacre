@@ -79,7 +79,7 @@ The Duplicated (preliminary, yet to be reduced if any mistakes) are listed below
 **********
 
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-فهرست نام های تکراری
+فهرست نام های تکراری. عدد اول شناسه نام در فهرست هرانا هست
 
 The Duplicate list
 The first number if HRANA appendix ID of that name
