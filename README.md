@@ -74,7 +74,7 @@ The Preliminary Verdict, the 400 to 500 Ms BaBaali claims is far from accurate
 
 The Duplicated (preliminary, yet to be reduced if any mistakes) are listed below for cross examination
 
-
+**********
 ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
 The Duplicate list
 The first number if HRANA appendix ID of that name
