@@ -16,3 +16,49 @@ Microsoft Word → Save as PDF (ذخیره به‌صورت PDF)
 
 این مرحله تضمین می‌کند که همه فایل‌ها در یک قالب استاندارد قرار بگیرند و در مراحل بعدی استخراج و تحلیل داده، ناسازگاری فرمت ایجاد نشود.
 
+
+🔹 گام ۲ — استخراج بخش‌های ضمیمه
+هدف: جدا کردن فهرست‌های ساختاریافته قربانیان
+فایل PDF کامل گزارش را باز کنید.
+بخش‌های ضمیمه را شناسایی کنید:
+
+
+کودکان جان‌باخته
+
+
+بزرگسالان جان‌باخته
+
+
+غیرمعترضان غیرنظامی
+
+
+هر بخش را به‌صورت جداگانه استخراج کنید و به شکل PDF یا DOCX ذخیره کنید.
+✅ خروجی:
+/data/raw/appendix_children.docx
+/data/raw/appendix_adults.docx
+/data/raw/appendix_non_protesting.docx
+
+🔹 گام ۳ — آماده‌سازی پرامپت استخراج ساختاریافته
+ما از ChatGPT استفاده کردیم، اما این کار با مهارت‌های برنامه‌نویسی دیگر نیز قابل انجام است.
+هدف: تبدیل متن نیمه‌ساختاریافته به جدول ساختاریافته
+برای استفاده در ChatGPT، پرامپت زیر را برای هر یک از فایل‌های بالا، مانند appendix_adults.docx، به کار ببرید:
+Read this document and convert numbered paragraphs into an Excel table.Each row must be split into the following columns:1. ID → number before "-"2. Name → text between "-" and ":"3. City of Death → value after "City of Death:"4. Province → value after "Province:"5. Date of Death → value after "Date of Death:"6. First Source → value after "First Source:"7. Status → value after "HRANA Verification Status:"Example:"234 - Meysam Bijani Zarei: City of Death: Shahriar – Province: Tehran – Date of Death: Unknown – First Source: X – HRANA Verification Status: Confirmed"→ID: 234  Name: Meysam Bijani Zarei  City of Death: Shahriar  Province: Tehran  Date of Death: Unknown  First Source: X  Status: Confirmed  Do this for ALL numbered entries. Do not modify text.
+
+🔹 گام ۴ — تولید مجموعه‌داده‌های Excel
+پرامپت را برای هر ضمیمه به‌صورت جداگانه اجرا کنید.
+✅ خروجی:
+/data/processed/children.xlsx
+/data/processed/adults.xlsx
+/data/processed/non_protesting.xlsx
+
+🔹 گام ۵ -  شناسایی نام‌های تکراری
+ما از ChatGPT استفاده کردیم، اما این کار با مهارت‌های برنامه‌نویسی دیگر نیز قابل انجام است.
+
+in column B (Name), is there any duplicate names?
+
+list all Total rows involved in duplicates: Include Number of distinct duplicated name
+
+پس از دریافت لیست به صورت دستی تک تک نام هر رو بررسس کردیم 
+
+⚠️ نکته مهم:
+۳۲ نام که مشابه بودند ولی شهر و اطلاعات دیکرشون متفاوت بود حذف شدند
